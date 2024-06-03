@@ -1,0 +1,158 @@
+{
+	"products": [
+		{
+			"id": 5,
+			"url": "#",
+			"title": "Lamp",
+			"text": "Night lamp",
+			"labels": [
+			],
+			"image": "04.jpg",
+			"price": "1.500.000",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 6,
+			"url": "#",
+			"title": "Chair",
+			"text": "Comfortable chair",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-20%"
+				},
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "02.jpg",
+			"price": "3.000.000",
+			"priceOld": "3.500.000",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 7,
+			"url": "#",
+			"title": "Table",
+			"text": "Stylish table",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-30%"
+				}
+			],
+			"image": "01.jpg",
+			"price": "2.500.000",
+			"priceOld": "3.500.000",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 8,
+			"url": "#",
+			"title": "Sofa",
+			"text": "Cozy sofa",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "03.jpg",
+			"price": "5.000.000",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 9,
+			"url": "#",
+			"title": "Table",
+			"text": "Stylish table",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-30%"
+				}
+			],
+			"image": "01.jpg",
+			"price": "2.500.000",
+			"priceOld": "3.500.000",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 10,
+			"url": "#",
+			"title": "Sofa",
+			"text": "Cozy sofa",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "03.jpg",
+			"price": "5.000.000",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 11,
+			"url": "#",
+			"title": "Sofa",
+			"text": "Cozy sofa",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "03.jpg",
+			"price": "5.000.000",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 12,
+			"url": "#",
+			"title": "Sofa",
+			"text": "Cozy sofa",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "03.jpg",
+			"price": "5.000.000",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		}
+		,
+		{
+			"id": 13,
+			"url": "#",
+			"title": "Sofa",
+			"text": "Cozy sofa",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "03.jpg",
+			"price": "5.000.000",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"products":[
+		{
+			"id": 1,
+			"url": "#",
+			"title": "Lamp",
+			"text": "Night lamp",
+			"labels":[
+				{
+					"type": "sale",
+					"value": "-50%"
+				},
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "04.jpg",
+			"price": "1.500.000",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		}
+	]
+}
